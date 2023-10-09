@@ -5,7 +5,7 @@
 /**
  * main - print random num
  *
- *Return : 0
+ *Return: 0
  */
 int main(void)
 {
