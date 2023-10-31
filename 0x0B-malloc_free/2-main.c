@@ -7,10 +7,10 @@
  *
  * Return: Always 0.
  */
-
 int main(void)
 {
-	char *s;
+
+	 char *s;
 
 	s = str_concat("Betty ", "Holberton");
 	if (s == NULL)
